@@ -116,3 +116,15 @@ body{
     width: 80px;
     height: 100%;
 }
+
+@media (max-width: 600px) {
+    #prompt {
+        width: 80%; /* Wider on mobile devices */
+        padding: 15px; /* Adjust padding if needed */
+        font-size: 18px; /* Slightly smaller font size for mobile */
+    }
+
+    #btn {
+        width: 15%; /* Adjust button width if needed */
+    }
+}
