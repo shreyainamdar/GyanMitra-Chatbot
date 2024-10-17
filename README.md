@@ -16,7 +16,7 @@ This project is a simple yet interactive chatbot built using HTML, CSS, and Java
 - **JavaScript**: Functionality for sending messages, fetching responses from the API, and updating the chat interface dynamically.
 - **Gemini API**: Used for generating intelligent responses to user queries.
 
-##Access it here:
+## Access it here: 
 https://gyanmitra.netlify.app/
 
 ## Installation
