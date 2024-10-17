@@ -17,7 +17,7 @@ This project is a simple yet interactive chatbot built using HTML, CSS, and Java
 - **Gemini API**: Used for generating intelligent responses to user queries.
 
 ## Access it here: 
-https://gyanmitra.netlify.app/
+https://gyanmitrachatbot.netlify.app/
 
 ## Installation
 To run this project locally, clone the repository and open the `index.html` file in your web browser.
