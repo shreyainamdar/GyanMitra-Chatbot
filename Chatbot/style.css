@@ -26,6 +26,8 @@ body{
     background: linear-gradient(to right,rgba(243, 245, 246, 0.837),rgba(113, 175, 233, 0.772),rgba(235, 59, 226, 0.698));
     background-clip: text;
     -webkit-text-fill-color: transparent;
+    color: transparent; /* Make the text transparent */
+    transition: background 1s;
 }
 
 .container h2{
