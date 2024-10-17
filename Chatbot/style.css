@@ -127,4 +127,8 @@ body{
     #btn {
         width: 15%; /* Adjust button width if needed */
     }
+   .chat-container {
+        height: calc(100vh - 120px); /* Adjust height to allow more space for responses */
+        padding: 10px; /* Optional: Adjust padding for mobile */
+    }
 }
