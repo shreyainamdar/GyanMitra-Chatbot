@@ -80,8 +80,9 @@ document.addEventListener("DOMContentLoaded", () => {
 
     function sendMessage(){
         let userMessage = userInput.value; // Get the user message
-            if(userMessage==""){
+            if(userMessage=="" && !userMessage){
                 container.style.display="flex"
+                return;
             }{
                 container.style.display="none"
             }
